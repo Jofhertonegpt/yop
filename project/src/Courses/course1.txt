@@ -1,0 +1,183 @@
+{
+    "course": {
+        "title": "Course 1: Foundations in Web Development and Interdisciplinary Studies",
+        "description": "The first year focuses on foundational skills in web development and an introduction to Philosophy, Psychology, and Neurochemistry.",
+        "instructor": {
+            "name": "Dr. Alex Harper",
+            "email": "alex.harper@universityexample.edu",
+            "bio": "Dr. Harper is a seasoned educator specializing in full-stack web development and interdisciplinary education."
+        },
+        "category": "Bachelor's Degree Curriculum",
+        "tags": ["HTML", "CSS", "JavaScript", "Philosophy", "Psychology", "Neurochemistry"],
+        "language": "English",
+        "duration": "1 year",
+        "level": "Year 1 Undergraduate",
+        "thumbnail": "path/to/thumbnail.jpg",
+        "content": {
+            "modules": [
+                {
+                    "module_id": 1,
+                    "module_title": "Foundations of Web Development",
+                    "module_description": "Learn the core technologies of web development including HTML, CSS, JavaScript, and Git.",
+                    "lessons": [
+                        {
+                            "lesson_id": 1,
+                            "lesson_title": "Introduction to HTML and CSS",
+                            "lesson_description": "Learn the basics of creating web pages with HTML and styling them with CSS.",
+                            "video_url": "https://sipb.mit.edu/iap/webdesign/course_materials/lecture_1.html",
+                            "resources": [
+                                {
+                                    "resource_id": 1,
+                                    "resource_title": "HTML & CSS Basics - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://sipb.mit.edu/iap/webdesign/course_materials/lecture_1.html"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 2,
+                            "lesson_title": "JavaScript Basics",
+                            "lesson_description": "Introduction to JavaScript programming and DOM manipulation.",
+                            "video_url": "https://cs50.harvard.edu/web/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 2,
+                                    "resource_title": "JavaScript Courses - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/subject/javascript"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 3,
+                            "lesson_title": "Version Control with Git",
+                            "lesson_description": "Learn the basics of Git, version control, and collaborating on code projects.",
+                            "video_url": "https://web.mit.edu/6.102/www/sp23/tools/git-1-version-control/",
+                            "resources": [
+                                {
+                                    "resource_id": 3,
+                                    "resource_title": "Version Control with Git - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://web.mit.edu/6.102/www/sp23/tools/git-1-version-control/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 2,
+                    "module_title": "Philosophy and Ethics",
+                    "module_description": "Explore foundational philosophical concepts and ethical considerations in technology.",
+                    "lessons": [
+                        {
+                            "lesson_id": 4,
+                            "lesson_title": "Introduction to Ethics",
+                            "lesson_description": "Understand key ethical theories and their application in modern contexts.",
+                            "video_url": "https://coursebrowser.dce.harvard.edu/course/human-ethics-an-introduction-to-moral-philosophy/",
+                            "resources": [
+                                {
+                                    "resource_id": 4,
+                                    "resource_title": "Ethics - Harvard University Press",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://www.hup.harvard.edu/books/9780674034983"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 5,
+                            "lesson_title": "Foundations of Logical Thinking",
+                            "lesson_description": "Learn the principles of logical reasoning and argumentation.",
+                            "video_url": "https://pll.harvard.edu/course/structure-and-function-argument-introduction-critical-thinking",
+                            "resources": [
+                                {
+                                    "resource_id": 5,
+                                    "resource_title": "Structure and Function of Argument - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/course/structure-and-function-argument-introduction-critical-thinking"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 3,
+                    "module_title": "Introduction to Psychology",
+                    "module_description": "Gain insights into human behavior, emotion, and cognition.",
+                    "lessons": [
+                        {
+                            "lesson_id": 6,
+                            "lesson_title": "Introduction to Psychology",
+                            "lesson_description": "Overview of psychological theories and practices.",
+                            "video_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+                            "resources": [
+                                {
+                                    "resource_id": 6,
+                                    "resource_title": "Lecture Notes - MIT OpenCourseWare",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/resources/lecture-notes/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 7,
+                            "lesson_title": "The Basics of Cognitive Processes",
+                            "lesson_description": "Introduction to human information processing and learning.",
+                            "video_url": "https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/",
+                            "resources": [
+                                {
+                                    "resource_id": 7,
+                                    "resource_title": "Cognitive Processes - MIT OpenCourseWare",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-65-cognitive-processes-spring-2004/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 4,
+                    "module_title": "Introduction to Neurochemistry",
+                    "module_description": "Explore the chemical foundations of neural activity and behavior.",
+                    "lessons": [
+                        {
+                            "lesson_id": 8,
+                            "lesson_title": "Introduction to Neurochemistry",
+                            "lesson_description": "Learn about the chemical processes that underlie neural function.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 8,
+                                    "resource_title": "Fundamentals of Neuroscience - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/series/fundamentals-neuroscience"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 9,
+                            "lesson_title": "Neurotransmitters and Their Functions",
+                            "lesson_description": "Understand the role of neurotransmitters in the nervous system.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 9,
+                                    "resource_title": "Neurotransmitters - Scholars at Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://scholar.harvard.edu/files/volkman/files/section_neurotransmitters.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "settings": {
+            "is_public": true,
+            "prerequisites": "High school diploma or equivalent with proficiency in basic computer usage.",
+            "certification": {
+                "available": true,
+                "criteria": "Complete at least 75% of the modules and pass all assessments."
+            }
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "course": {
+        "title": "Course 2: Advanced Web Development and Interdisciplinary Applications",
+        "description": "The second year focuses on advanced web development topics and deeper insights into Philosophy, Psychology, and Neurochemistry.",
+        "instructor": {
+            "name": "Dr. Alex Harper",
+            "email": "alex.harper@universityexample.edu",
+            "bio": "Dr. Harper is a seasoned educator specializing in full-stack web development and interdisciplinary education."
+        },
+        "category": "Bachelor's Degree Curriculum",
+        "tags": ["React.js", "Philosophy", "Psychology", "Neurochemistry"],
+        "language": "English",
+        "duration": "1 year",
+        "level": "Year 2 Undergraduate",
+        "thumbnail": "path/to/thumbnail.jpg",
+        "content": {
+            "modules": [
+                {
+                    "module_id": 1,
+                    "module_title": "Advanced Web Development with React.js",
+                    "module_description": "Learn advanced React.js concepts, including state management and component design.",
+                    "lessons": [
+                        {
+                            "lesson_id": 1,
+                            "lesson_title": "Introduction to React.js",
+                            "lesson_description": "Learn how to build applications using React.js components.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2019/days/8/",
+                            "resources": [
+                                {
+                                    "resource_id": 1,
+                                    "resource_title": "React.js Official Documentation",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://reactjs.org/docs/getting-started.html"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 2,
+                            "lesson_title": "State Management in React.js",
+                            "lesson_description": "Understand how to manage component state effectively in React applications.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2019/days/8/",
+                            "resources": [
+                                {
+                                    "resource_id": 2,
+                                    "resource_title": "State and Lifecycle (React Docs)",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://reactjs.org/docs/state-and-lifecycle.html"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 3,
+                            "lesson_title": "React Hooks Overview",
+                            "lesson_description": "Learn about React Hooks and how to use them to simplify state and lifecycle management.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2019/days/8/",
+                            "resources": [
+                                {
+                                    "resource_id": 3,
+                                    "resource_title": "Introducing Hooks (React Docs)",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://reactjs.org/docs/hooks-intro.html"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 2,
+                    "module_title": "Philosophy and Technology",
+                    "module_description": "Explore how philosophy intersects with technology and the ethics of AI.",
+                    "lessons": [
+                        {
+                            "lesson_id": 4,
+                            "lesson_title": "Ethics of Artificial Intelligence",
+                            "lesson_description": "Understand the ethical considerations in developing and using AI systems.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 4,
+                                    "resource_title": "Ethics for Engineers: Artificial Intelligence",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 5,
+                            "lesson_title": "Philosophy of Technology",
+                            "lesson_description": "Explore philosophical theories related to the impact of technology on society.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 5,
+                                    "resource_title": "Philosophy of Technology Resources",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://www.iep.utm.edu/technology/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 3,
+                    "module_title": "Intermediate Psychology",
+                    "module_description": "Dive deeper into human behavior, emotion, and cognition.",
+                    "lessons": [
+                        {
+                            "lesson_id": 6,
+                            "lesson_title": "The Psychology of Emotions",
+                            "lesson_description": "Understand the role of emotions in human behavior and decision-making.",
+                            "video_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+                            "resources": [
+                                {
+                                    "resource_id": 6,
+                                    "resource_title": "Introduction to Psychology (MIT OpenCourseWare)",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 7,
+                            "lesson_title": "Cognitive Biases and Decision-Making",
+                            "lesson_description": "Learn how cognitive biases affect decision-making processes.",
+                            "video_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+                            "resources": [
+                                {
+                                    "resource_id": 7,
+                                    "resource_title": "Cognitive Bias Resources",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 4,
+                    "module_title": "Neurochemistry in Action",
+                    "module_description": "Explore the role of neurochemistry in human behavior and technology interactions.",
+                    "lessons": [
+                        {
+                            "lesson_id": 8,
+                            "lesson_title": "The Role of Dopamine",
+                            "lesson_description": "Learn how dopamine influences behavior and its implications in technology.",
+                            "video_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+                            "resources": [
+                                {
+                                    "resource_id": 8,
+                                    "resource_title": "Dopamine and Behavior (MIT OpenCourseWare)",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 9,
+                            "lesson_title": "Neurochemistry and Reward Systems",
+                            "lesson_description": "Understand the brain's reward systems and their role in addiction and technology use.",
+                            "video_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/",
+                            "resources": [
+                                {
+                                    "resource_id": 9,
+                                    "resource_title": "Neurochemistry Resources",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "settings": {
+            "is_public": true,
+            "prerequisites": "Completion of Course 1 or equivalent foundational knowledge.",
+            "certification": {
+                "available": true,
+                "criteria": "Complete at least 75% of the modules and pass all assessments."
+            }
+        }
+    }
+}

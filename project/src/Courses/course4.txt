@@ -1,0 +1,183 @@
+{
+    "course": {
+        "title": "Course 4: Capstone and Advanced Interdisciplinary Studies",
+        "description": "The fourth year focuses on synthesizing knowledge through capstone projects, advanced full-stack development, and interdisciplinary analysis.",
+        "instructor": {
+            "name": "Dr. Alex Harper",
+            "email": "alex.harper@universityexample.edu",
+            "bio": "Dr. Harper is a seasoned educator specializing in full-stack web development and interdisciplinary education."
+        },
+        "category": "Bachelor's Degree Curriculum",
+        "tags": ["Capstone Projects", "Full-Stack Development", "Ethics", "Psychology", "Neurochemistry"],
+        "language": "English",
+        "duration": "1 year",
+        "level": "Year 4 Undergraduate",
+        "thumbnail": "path/to/thumbnail.jpg",
+        "content": {
+            "modules": [
+                {
+                    "module_id": 1,
+                    "module_title": "Capstone Full-Stack Project",
+                    "module_description": "Apply everything you've learned to develop a full-stack application, from backend to frontend.",
+                    "lessons": [
+                        {
+                            "lesson_id": 1,
+                            "lesson_title": "Planning and Designing Your Application",
+                            "lesson_description": "Learn how to plan and architect a scalable full-stack application.",
+                            "video_url": "https://cs50.harvard.edu/ai/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 1,
+                                    "resource_title": "Application Design Guide - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://cs50.harvard.edu/ai/2020/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 2,
+                            "lesson_title": "Developing the Backend",
+                            "lesson_description": "Create and integrate APIs, handle authentication, and manage data storage.",
+                            "video_url": "https://cs50.harvard.edu/ai/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 2,
+                                    "resource_title": "Backend Development Resources - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://cs50.harvard.edu/ai/2020/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 3,
+                            "lesson_title": "Building the Frontend",
+                            "lesson_description": "Develop a dynamic and responsive frontend for your application.",
+                            "video_url": "https://cs50.harvard.edu/ai/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 3,
+                                    "resource_title": "Frontend Development Resources - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://cs50.harvard.edu/ai/2020/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 2,
+                    "module_title": "Ethics and Society",
+                    "module_description": "Explore the societal impact of technology, data privacy, and ethical dilemmas.",
+                    "lessons": [
+                        {
+                            "lesson_id": 4,
+                            "lesson_title": "Data Privacy and Security",
+                            "lesson_description": "Learn about the ethical implications of data privacy and security.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 4,
+                                    "resource_title": "Ethics of Data Privacy - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 5,
+                            "lesson_title": "Technology and Global Justice",
+                            "lesson_description": "Examine the global implications of technology and its role in justice.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 5,
+                                    "resource_title": "Global Justice and Technology - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 3,
+                    "module_title": "Psychological Insights in Design",
+                    "module_description": "Utilize psychological principles to create user-friendly and engaging applications.",
+                    "lessons": [
+                        {
+                            "lesson_id": 6,
+                            "lesson_title": "User-Centered Design Principles",
+                            "lesson_description": "Learn how to design applications that prioritize user experience.",
+                            "video_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/",
+                            "resources": [
+                                {
+                                    "resource_id": 6,
+                                    "resource_title": "UX Design and Psychology - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 7,
+                            "lesson_title": "Behavioral Patterns in Technology Use",
+                            "lesson_description": "Analyze how behavioral patterns influence technology adoption.",
+                            "video_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/",
+                            "resources": [
+                                {
+                                    "resource_id": 7,
+                                    "resource_title": "Behavioral Analysis in Tech - MIT",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 4,
+                    "module_title": "Advanced Neurochemistry Applications",
+                    "module_description": "Explore cutting-edge neurochemistry topics related to technology and human behavior.",
+                    "lessons": [
+                        {
+                            "lesson_id": 8,
+                            "lesson_title": "Neurochemistry of Motivation",
+                            "lesson_description": "Understand how motivation is influenced by neurochemical processes.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 8,
+                                    "resource_title": "Motivation and Neurochemistry - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/series/fundamentals-neuroscience"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 9,
+                            "lesson_title": "Neurochemistry and AI Interfaces",
+                            "lesson_description": "Explore how neurochemistry interacts with AI-driven tools.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 9,
+                                    "resource_title": "AI and Neurochemistry - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/series/fundamentals-neuroscience"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "settings": {
+            "is_public": true,
+            "prerequisites": "Completion of Course 3 or equivalent advanced knowledge.",
+            "certification": {
+                "available": true,
+                "criteria": "Complete all modules and the capstone project with a passing grade."
+            }
+        }
+    }
+}

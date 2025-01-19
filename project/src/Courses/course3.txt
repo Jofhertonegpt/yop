@@ -1,0 +1,183 @@
+{
+    "course": {
+        "title": "Course 3: Full-Stack Development and Specialized Interdisciplinary Studies",
+        "description": "The third year focuses on backend web development, advanced ethics, and specialized studies in Psychology and Neurochemistry.",
+        "instructor": {
+            "name": "Dr. Alex Harper",
+            "email": "alex.harper@universityexample.edu",
+            "bio": "Dr. Harper is a seasoned educator specializing in full-stack web development and interdisciplinary education."
+        },
+        "category": "Bachelor's Degree Curriculum",
+        "tags": ["Node.js", "APIs", "Philosophy", "Psychology", "Neurochemistry"],
+        "language": "English",
+        "duration": "1 year",
+        "level": "Year 3 Undergraduate",
+        "thumbnail": "path/to/thumbnail.jpg",
+        "content": {
+            "modules": [
+                {
+                    "module_id": 1,
+                    "module_title": "Backend Development and API Integration",
+                    "module_description": "Master backend web development, including Node.js, Express.js, and RESTful APIs.",
+                    "lessons": [
+                        {
+                            "lesson_id": 1,
+                            "lesson_title": "Introduction to Node.js",
+                            "lesson_description": "Learn the basics of server-side development using Node.js.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 1,
+                                    "resource_title": "Node.js Documentation",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://nodejs.org/en/docs/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 2,
+                            "lesson_title": "Building RESTful APIs with Express.js",
+                            "lesson_description": "Understand how to build APIs using Express.js.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 2,
+                                    "resource_title": "Express.js Documentation",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://expressjs.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 3,
+                            "lesson_title": "Database Integration with Node.js",
+                            "lesson_description": "Learn how to connect and interact with databases using Node.js.",
+                            "video_url": "https://cs50.harvard.edu/beyond/2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 3,
+                                    "resource_title": "MongoDB University",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://university.mongodb.com/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 2,
+                    "module_title": "Ethics of Emerging Technologies",
+                    "module_description": "Explore ethical issues related to AI, robotics, and other emerging technologies.",
+                    "lessons": [
+                        {
+                            "lesson_id": 4,
+                            "lesson_title": "Ethics of AI and Robotics",
+                            "lesson_description": "Delve into the ethical implications of AI and robotics in society.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 4,
+                                    "resource_title": "Ethics for Engineers: AI and Robotics",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 5,
+                            "lesson_title": "Bias and Fairness in AI",
+                            "lesson_description": "Learn about bias in AI systems and how to mitigate it.",
+                            "video_url": "https://ocw.mit.edu/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/",
+                            "resources": [
+                                {
+                                    "resource_id": 5,
+                                    "resource_title": "Bias in AI - MIT Resources",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 3,
+                    "module_title": "Advanced Psychology",
+                    "module_description": "Dive into advanced topics in decision-making, behavior, and cognitive science.",
+                    "lessons": [
+                        {
+                            "lesson_id": 6,
+                            "lesson_title": "Decision-Making Under Uncertainty",
+                            "lesson_description": "Explore how humans make decisions when outcomes are uncertain.",
+                            "video_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/",
+                            "resources": [
+                                {
+                                    "resource_id": 6,
+                                    "resource_title": "Decision-Making Resources",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 7,
+                            "lesson_title": "The Psychology of Habits",
+                            "lesson_description": "Understand how habits form and how they influence behavior.",
+                            "video_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/",
+                            "resources": [
+                                {
+                                    "resource_id": 7,
+                                    "resource_title": "The Science of Habits",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "module_id": 4,
+                    "module_title": "Neurochemistry and Brain Function",
+                    "module_description": "Explore complex neural interactions and their role in behavior and technology interactions.",
+                    "lessons": [
+                        {
+                            "lesson_id": 8,
+                            "lesson_title": "Neural Plasticity and Learning",
+                            "lesson_description": "Understand how the brain adapts and learns through neural plasticity.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 8,
+                                    "resource_title": "Neuroplasticity - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/series/fundamentals-neuroscience"
+                                }
+                            ]
+                        },
+                        {
+                            "lesson_id": 9,
+                            "lesson_title": "Neurochemistry of Stress and Behavior",
+                            "lesson_description": "Learn how stress affects brain chemistry and behavior.",
+                            "video_url": "https://pll.harvard.edu/series/fundamentals-neuroscience",
+                            "resources": [
+                                {
+                                    "resource_id": 9,
+                                    "resource_title": "Stress and Neurochemistry - Harvard",
+                                    "resource_type": "Link",
+                                    "resource_url": "https://pll.harvard.edu/series/fundamentals-neuroscience"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "settings": {
+            "is_public": true,
+            "prerequisites": "Completion of Course 2 or equivalent intermediate knowledge.",
+            "certification": {
+                "available": true,
+                "criteria": "Complete at least 75% of the modules and pass all assessments."
+            }
+        }
+    }
+}
